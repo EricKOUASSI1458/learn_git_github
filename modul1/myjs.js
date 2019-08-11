@@ -1,0 +1,1 @@
+consol.log('je suis un text ecrit en JS++');
